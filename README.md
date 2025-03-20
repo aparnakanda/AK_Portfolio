@@ -11,7 +11,6 @@ I'm a passionate **Full Stack Developer** with expertise in designing and develo
 - HTML, CSS, JavaScript
 - React.js & React Native
 - Responsive Web Design & UI/UX
-- Tailwind CSS, Bootstrap
 
 ### 🖥️ Backend Development
 - Node.js, Express.js
@@ -26,9 +25,7 @@ I'm a passionate **Full Stack Developer** with expertise in designing and develo
 ### 🚀 Tools & Technologies
 - Git & GitHub
 - ServiceNow
-- Firebase
 - Postman
-- Figma (UI/UX Design)
 
 ---
 
