@@ -669,10 +669,7 @@ body {
 /* Project Image */
 .project-card img {
     width: 100%;
-<<<<<<< HEAD
     height: 180px;
-=======
->>>>>>> bfacb47cd30a168c6928ff20ba7a3885524a320c
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
@@ -700,7 +697,6 @@ body {
     color: #ddd;
 }
 
-<<<<<<< HEAD
 .project-btn {
     display: inline-block;
     margin-top: 10px;
@@ -719,8 +715,6 @@ body {
 }
 
 
-=======
->>>>>>> bfacb47cd30a168c6928ff20ba7a3885524a320c
 /* Responsive Design */
 @media (max-width: 768px) {
     .projects-container {
